@@ -1,0 +1,11 @@
+{
+  "name": "pkg2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@bonfida/spl-name-service": "2.3.8"
+  }
+}
